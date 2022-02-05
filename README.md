@@ -4,15 +4,15 @@
 
 Submitted by: **Angela Busheska**
 
-Time spent: **6.5** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [Y] User can **view a list of todo items**
-* [Y] User can **successfully add and remove items** from the todo list
-* [Y] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
